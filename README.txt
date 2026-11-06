@@ -19,3 +19,12 @@ style.css   : desain, layout, dan responsive
 script.js   : menu mobile, animasi scroll, tahun otomatis
 
 Catatan: Google Fonts memerlukan koneksi internet. Jika offline, website menggunakan font cadangan dari sistem.
+
+ASET FOTO & DOKUMENTASI
+- assets/profile.png: foto profil halaman utama.
+- assets/indorad-app.png dan indorad-poster.png: dokumentasi proyek Indorad.
+- assets/court-dashboard.png dan court-schedule-print.png: dokumentasi aplikasi penjadwalan sidang.
+- assets/court-certificate.jpg: dokumentasi sertifikat PPL.
+
+Sebelum dipublikasikan, pastikan screenshot aplikasi dan sertifikat boleh dibagikan.
+Samarkan data pribadi, nomor identitas, atau data perkara yang bersifat internal.
